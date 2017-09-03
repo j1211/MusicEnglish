@@ -1,0 +1,6 @@
+C:\Users\naott\Documents\Visual Studio 2015\Projects\procon28\MusicEnglish\MusicEnglish\bin\Debug\MusicEnglish.exe.config
+C:\Users\naott\Documents\Visual Studio 2015\Projects\procon28\MusicEnglish\MusicEnglish\bin\Debug\MusicEnglish.exe
+C:\Users\naott\Documents\Visual Studio 2015\Projects\procon28\MusicEnglish\MusicEnglish\bin\Debug\MusicEnglish.pdb
+C:\Users\naott\Documents\Visual Studio 2015\Projects\procon28\MusicEnglish\MusicEnglish\obj\Debug\MusicEnglish.csprojResolveAssemblyReference.cache
+C:\Users\naott\Documents\Visual Studio 2015\Projects\procon28\MusicEnglish\MusicEnglish\obj\Debug\MusicEnglish.exe
+C:\Users\naott\Documents\Visual Studio 2015\Projects\procon28\MusicEnglish\MusicEnglish\obj\Debug\MusicEnglish.pdb
