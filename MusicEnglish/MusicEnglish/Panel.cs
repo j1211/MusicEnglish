@@ -90,8 +90,8 @@ namespace MusicEnglish
 				if (result.Equals("too slow")) { onpus[i].Erase(); badCount++; continue; }
 				break;
 			}
-			if (i == onpus.Count || mean.Equals("")) { return; }
-
+			if (i == onpus.Count || !mean.Equals(onpus[i].text)) { return; }
+			
 			result = onpus[i].GetJudge();
 			if (result.Equals("too fast")) { return; }
 
